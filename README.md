@@ -1,30 +1,10 @@
-# Membership Inference Probing — FREE VERSION
-### No API Keys | Google Colab Free | 1-3 Days
+# Membership Inference Probing —
 
 **Author:** Mohammad Arifur Rahman
-**Research connection:** Hajishirzi et al. 2026 — *Learning to Detect Language Model Training Data*
 
 ---
 
-## ✅ What You Need
-- Google account (for Colab) OR local Python env
-- NO OpenAI API key
-- NO paid compute
-
----
-
-## ⏱ Time Estimates
-
-| Scale | Colab Free (T4) | Local CPU | Local GPU |
-|---|---|---|---|
-| N=30 (quick test) | ~25 min | ~2 hrs | ~30 min |
-| N=100 (full results) | ~90 min | ~6 hrs | ~1.5 hrs |
-
-**Recommended:** Run N=30 first to verify, then N=100 overnight on Colab.
-
----
-
-## 🧪 Models Used (all free)
+## 🧪 Models Used
 
 | Role | Model | Why |
 |---|---|---|
